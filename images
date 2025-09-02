@@ -1,0 +1,76 @@
+<!-- Услуги -->
+<section id="services" class="services">
+    <h2 class="section-title animate-on-scroll">Наши Услуги</h2>
+    <div class="services-grid">
+        <!-- Услуга 1 -->
+        <div class="service-card animate-on-scroll">
+            <div class="service-image" style="background-image: url('images/photo1.jpg')"></div>
+            <div class="service-content">
+                <h3 class="service-title">Разработка документации</h3>
+                <p class="service-description">Проектирование систем автоматической пожарной сигнализации, создание планов эвакуации, инструкций, а также всей необходимой документации в области пожарной безопасности.</p>
+                <button class="order-btn" data-service="Разработка документации">Заказать</button>
+            </div>
+        </div>
+        
+        <!-- Услуга 2 -->
+        <div class="service-card animate-on-scroll">
+            <div class="service-image" style="background-image: url('images/photo2.jpg')"></div>
+            <div class="service-content">
+                <h3 class="service-title">Обучение и инструктаж</h3>
+                <p class="service-description">Проведение всех видов инструктажей, обучение пожарно-техническому минимуму, организация тренировок и учений.</p>
+                <button class="order-btn" data-service="Обучение и инструктаж">Заказать</button>
+            </div>
+        </div>
+        
+        <!-- Услуга 3 -->
+        <div class="service-card animate-on-scroll">
+            <div class="service-image" style="background-image: url('images/photo3.jpg')"></div>
+            <div class="service-content">
+                <h3 class="service-title">Аудит и консультирование</h3>
+                <p class="service-description">Экспертный аудит в области пожарной безопасности, оценка рисков, и консультации по всем вопросам пожарной безопасности.</p>
+                <button class="order-btn" data-service="Аудит и консультирование">Заказать</button>
+            </div>
+        </div>
+        
+        <!-- Услуга 4 -->
+        <div class="service-card animate-on-scroll">
+            <div class="service-image" style="background-image: url('images/photo4.jpg')"></div>
+            <div class="service-content">
+                <h3 class="service-title">Монтаж и техническое обслуживание</h3>
+                <p class="service-description">Профессиональное обслуживание и монтаж систем пожарной сигнализации, оповещения и управления эвакуацией.</p>
+                <button class="order-btn" data-service="Техническое обслуживание">Заказать</button>
+            </div>
+        </div>
+        
+        
+        <!-- Услуга 6 -->
+        <div class="service-card animate-on-scroll">
+            <div class="service-image" style="background-image: url('images/photo6.jpg')"></div>
+            <div class="service-content">
+                <h3 class="service-title">Огнезащитная обработка</h3>
+                <p class="service-description">Специальная обработка деревянных и металлических конструкций огнезащитными составами с выдачей официальных протоколов.</p>
+                <button class="order-btn" data-service="Огнезащитная обработка">Заказать</button>
+            </div>
+        </div>
+        
+        <!-- Услуга 7 -->
+        <div class="service-card animate-on-scroll">
+            <div class="service-image" style="background-image: url('images/photo7.jpg')"></div>
+            <div class="service-content">
+                <h3 class="service-title">Проверки и испытания</h3>
+                <p class="service-description">Испытания и проверка пожарных кранов и гидрантов, сопротивления изоляции электрических сетей, лестниц и ограждений.</p>
+                <button class="order-btn" data-service="Проверки и испытания">Заказать</button>
+            </div>
+        </div>
+        
+        <!-- Услуга 8 -->
+        <div class="service-card animate-on-scroll">
+            <div class="service-image" style="background-image: url('images/photo8.jpg')"></div>
+            <div class="service-content">
+                <h3 class="service-title">Сопровождение проверок</h3>
+                <p class="service-description">Подготовка объектов к проверкам МЧС, устранение нарушений, профессиональное сопровождение во время надзорных мероприятий.</p>
+                <button class="order-btn" data-service="Сопровождение проверок">Заказать</button>
+            </div>
+        </div>
+    </div>
+</section>
